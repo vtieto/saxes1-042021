@@ -10,3 +10,8 @@ Angels
 Giants
 Padres
 
+Teams from Texas
+
+Rangers
+Astros
+
